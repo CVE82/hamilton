@@ -1,2 +1,0 @@
-# hamilton
-Hamilton is grazing. 
